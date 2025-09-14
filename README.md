@@ -15,21 +15,12 @@ Analyze relationships between app features (size, category, price) and user rati
 Provide visualizations for better interpretation of app market trends.
 
 ---
-⚙️ Technologies Used
+## 📂 Dataset
 
-Python 🐍
+The dataset used in this project is available here:  
 
-Libraries:
+👉 [Google Play Store Dataset (Kaggle)](https://www.kaggle.com/lava18/google-play-store-apps)
 
-pandas → Data manipulation
-
-numpy → Numerical computations
-
-matplotlib → Data visualization
-
-seaborn → Statistical visualization
-
-plotly (optional) → Interactive visualizations
 
 ---
 
@@ -64,3 +55,20 @@ Genres → App genre
 Last Updated → Last update date
 
 Android Ver → Minimum supported Android version
+
+---
+⚙️ Technologies Used
+
+Python 🐍
+
+Libraries:
+
+pandas → Data manipulation
+
+numpy → Numerical computations
+
+matplotlib → Data visualization
+
+seaborn → Statistical visualization
+
+plotly (optional) → Interactive visualizations
