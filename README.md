@@ -1,4 +1,6 @@
-📊 Google Play Store Apps – Exploratory Data Analysis
+**📊 Google Play Store Apps – Exploratory Data Analysis**
+
+---
 
 📌 Project Overview
 
